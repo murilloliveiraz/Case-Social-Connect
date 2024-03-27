@@ -5,3 +5,4 @@ SocialConnect é um site de rede social onde usuários podem criar perfis, compa
 - David Murillo
 - Yasmin Gonçalves
 - Lucas Godois
+- Vitor Cesarino Marchese
